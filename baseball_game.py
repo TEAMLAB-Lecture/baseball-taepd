@@ -289,10 +289,6 @@ def main():
                         break
                     else:
                         print('Wrong Input, Input again')
-                
-
-
-
     # ==================================
     print("Thank you for using this program")
     print("End of the Game")
